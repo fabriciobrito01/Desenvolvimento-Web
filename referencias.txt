@@ -23,6 +23,12 @@ como HTML, CSS, JavaScript
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - SQLITE BROWSER: https://github.com/sqlitebrowser/sqlitebrowser/wiki
-o SQLite Browser é uma ferramenta valiosa no desenvolvimento web. 
+O SQLite Browser é uma ferramenta valiosa no desenvolvimento web. 
 Ele facilita o gerenciamento, a visualização e a manipulação dos dados, apoiando o desenvolvimento, 
 teste e manutenção de aplicações web que utilizam SQLite como seu banco de dados.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- GOOGLE CHROME: https://www.google.pt/intl/pt-PT/chrome/browser-features/#
+O Chrome tem um bom suporte para os padrões web modernos (HTML5, CSS3, ES6+). Como um dos navegadores mais usados no mundo, 
+muitos desenvolvedores web o utilizam como base para garantir que suas aplicações funcionem corretamente para a maioria dos usuários.
