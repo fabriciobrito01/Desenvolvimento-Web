@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+h1 {
+    font-size: 60px;
+}
+
+.mudanca-da-cor {
+    background-color: rgb(247, 0, 255);
+}
+
+.tamamho-relativo {
+    width: 300%;
+    height: 60vh;
+}
+
+.tamanho-fixo {
+    width: 500px;
+    height: 450px;
+}
+
+html {
+    font-family: "Rubik", sans-serif;
+}
+
+span {
+    font-weight: bold;
+    color: red;
+    background-color: aqua;
+}
